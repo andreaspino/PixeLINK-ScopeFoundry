@@ -1,9 +1,8 @@
 # PixeLINK
 The ScopeFoundry platform for the camera Pixelink. Model:PL-B771U
 
-
-
-
+This project allows you to use the ScopeFoundry in order to control this model of camera and the acquisition process. 
+Ths ScopeFoundry platform is very useful to handle different device of your laboratory with a unique interface.
 
 ## Requirement to install:
 "Anaconda"
